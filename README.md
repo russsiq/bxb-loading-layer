@@ -41,4 +41,4 @@ loader.hide();
 
 ### Лицензия
 
-bxb-loading-layer - программное обеспечение с открытым исходным кодом, распространяющееся по лицензии [MIT license](https://choosealicense.com/licenses/mit/).
+bxb-loading-layer - программное обеспечение с открытым исходным кодом, распространяющееся по лицензии [MIT](https://choosealicense.com/licenses/mit/).
